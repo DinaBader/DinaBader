@@ -7,7 +7,7 @@ Passionate junior full-stack developer dedicated to building innovative and user
 Skills: React Native / React / JS / Node.js / MongoDB
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinaBader)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DinaBader&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinaBader)](https://github.com/anuraghazra/github-readme-stats)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DinaBader&show_icons=true)  
 
 
 
