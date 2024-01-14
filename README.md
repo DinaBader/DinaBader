@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dina Bader
-#### I am GitHub Junior Full Stack Developer
+#### I am a Junior Full Stack Developer
 ![I am a Junior Full Stack Developer](https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif)
 
 Passionate junior full-stack developer dedicated to building innovative and user-friendly web applications.
