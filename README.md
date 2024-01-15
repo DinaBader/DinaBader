@@ -1,5 +1,5 @@
-### Hi 👋,I'm Dina Bader
-#### I am a Junior software developer from Lebanon
+                    ### Hi 👋,I'm Dina Bader
+                    #### I am a Junior software developer from Lebanon
 ![I am a Junior Full Stack Developer](https://www.graphicpear.com/wp-content/uploads/2016/11/1-VuRMGPKL5vgl_22OhhnbiQ.gif)
 
 Passionate junior full-stack developer dedicated to building innovative and user-friendly web applications.
