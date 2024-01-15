@@ -1,7 +1,6 @@
 <div align="center">
   <h2>Hi 👋, I'm Dina Bader </h2>
   <h4>I am a Junior software developer from Lebanon</h4>
-  <hr>
   <img src="https://www.graphicpear.com/wp-content/uploads/2016/11/1-VuRMGPKL5vgl_22OhhnbiQ.gif" alt="I am a Junior Full Stack Developer">
 </div>
 
