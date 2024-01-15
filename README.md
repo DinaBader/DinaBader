@@ -16,6 +16,5 @@ Game Development
  </ul>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinaBader)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DinaBader&show_icons=true)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DinaBader)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DinaBader&show_icons=true)
